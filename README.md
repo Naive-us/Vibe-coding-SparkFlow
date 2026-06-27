@@ -67,6 +67,57 @@ npm run dev
 cd mcp/html-generator
 node server.js
 
+---
+
+<h2 style="color: #EA580C;">💡 灵感起点：从一个「没想到」的问题开始</h2>
+
+<p>SparkFlow 不是一个死板的任务执行器，而是一个<strong>思维的放大镜</strong>。它最擅长的，就是接住你那些突如其来的「脑洞」，并将它们无限延伸。</p>
+<p>如果你不知道从何开始，不妨把下面这些没有标准答案的问题扔给它，看看它会为你渲染出怎样的思维星轨：</p>
+
+### 🌍 宇宙灾难与物理推演
+<blockquote style="border-left: 4px solid #F59E0B; background-color: #FEF3C7; padding: 10px 15px; border-radius: 4px; color: #B45309;">
+  <strong>"如果地球突然停止自转，但大气和海洋仍然保持运动，会发生什么？"</strong>
+</blockquote>
+
+* 👉 *SparkFlow 会以此为引力中心，为你展开这样的分支：*
+  * <strong style="color: #D97706;">生存场景：</strong> 哪些地带反而最安全？人类还有机会生存吗？
+  * <strong style="color: #D97706;">物理法则：</strong> 为什么不是所有东西都会立刻停下来？地球的一天会变成什么样？
+
+### 👽 宇宙社会学与脑洞
+<blockquote style="border-left: 4px solid #F59E0B; background-color: #FEF3C7; padding: 10px 15px; border-radius: 4px; color: #B45309;">
+  <strong>"如果外星人已经发现地球，却决定永远不联系我们，最可能的原因是什么？"</strong>
+</blockquote>
+
+* 👉 *SparkFlow 会以此为引力中心，为你展开这样的分支：*
+  * <strong style="color: #D97706;">行为学透视：</strong> 是害怕我们，还是懒得理我们？人类的哪些行为在他们看来最奇怪？
+  * <strong style="color: #D97706;">文明博弈：</strong> 我们有没有可能已经被观察很久？如果你是外星文明，会选择联系地球吗？
+
+### 🤔 行为经济与日常心理
+<blockquote style="border-left: 4px solid #F59E0B; background-color: #FEF3C7; padding: 10px 15px; border-radius: 4px; color: #B45309;">
+  <strong>"为什么我们总会觉得排队的另一条队伍更快？"</strong>
+</blockquote>
+
+* 👉 *SparkFlow 会以此为引力中心，为你展开这样的分支：*
+  * <strong style="color: #D97706;">心理学陷阱：</strong> 这真的是心理作用吗？超市的空间设计是如何让你产生错觉的？
+  * <strong style="color: #D97706;">数学与概率：</strong> 墨菲定律在排队论中有什么数学解释？怎样选队伍最快？
+
+### 🧠 赛博朋克与伦理边界
+<blockquote style="border-left: 4px solid #F59E0B; background-color: #FEF3C7; padding: 10px 15px; border-radius: 4px; color: #B45309;">
+  <strong>"如果人的记忆可以像电脑一样无损复制，世界会发生什么？"</strong>
+</blockquote>
+
+* 👉 *SparkFlow 会以此为引力中心，为你展开这样的分支：*
+  * <strong style="color: #D97706;">哲学与身份：</strong> 复制后的"你"还是你吗？法律会如何定义数字化的身份？
+  * <strong style="color: #D97706;">社会重构：</strong> 传统的学习还有意义吗？会不会出现专门出售优质记忆的黑市？
+
+<br/>
+
+<div style="background-color: #F3F4F6; padding: 15px; border-radius: 8px; text-align: center;">
+  <p style="color: #4B5563; font-size: 0.95em; margin: 0;">
+    🎯 <strong>为什么是这些问题？</strong> 因为它们一句话就能激发好奇心。而在 SparkFlow 的画布上，这些问题不再是干瘪的文字——<strong>每一次追问，都会化作一条优美的曲线；每一个视角的深入，都会生成一个带有颜色的全新节点，将你的思维引向未知的深空。</strong>
+  </p>
+</div>
+
 💡 打开 http://localhost:~，输入你的 API Key，开始碰撞灵感吧！
 Frontend: React 18, Vite, TypeScript, React Flow, Zustand, Tailwind CSS, Framer Motion
 Backend: Spring Boot 3, Java 17, Spring Data JPA, WebFlux
