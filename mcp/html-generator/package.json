@@ -1,0 +1,9 @@
+{
+  "name": "sparkflow-mcp-html",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SparkFlow 本地 MCP HTML 生成器（无外部网络）",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
