@@ -118,8 +118,12 @@ node server.js
   </p>
 </div>
 
-💡 打开 http://localhost:~，输入你的 API Key，开始碰撞灵感吧！
-Frontend: React 18, Vite, TypeScript, React Flow, Zustand, Tailwind CSS, Framer Motion
-Backend: Spring Boot 3, Java 17, Spring Data JPA, WebFlux
-Storage: SQLite (零配置本地单文件，绝对的数据隐私)
-AI & Microservices: 多 Provider 抽象层 (OpenAI/Anthropic/Qwen/Ollama) + Node.js MCP (端口 3100)
+<p>💡 打开 http://localhost:~，输入你的 API Key，开始碰撞灵感吧！
+
+<p>Frontend: React 18, Vite, TypeScript, React Flow, Zustand, Tailwind CSS, Framer Motion</p>
+
+<p>Backend: Spring Boot 3, Java 17, Spring Data JPA, WebFlux</p>
+
+<p>Storage: SQLite (零配置本地单文件，绝对的数据隐私)</p>
+
+<p>AI & Microservices: 多 Provider 抽象层 (OpenAI/Anthropic/Qwen/Ollama) + Node.js MCP (端口 3100)</p>
