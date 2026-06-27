@@ -19,6 +19,17 @@
 
 我们通过大语言模型捕捉你脑海中最模糊、最跳跃的想法，将它们瞬间重塑为结构化的 JSON 图谱，并在一块无限延伸的 React Flow 画布上，以径向排布的方式为你展开思维的星辰大海。不仅如此，它还能一键将你的灵感转化为动态的 HTML 视听演示。
 
+<br/>
+
+<!-- 👇 SparkFlow演示视频 👇 -->
+<div align="center">
+  <video src="./SparkFlow-video2.mp4" width="100%" max-width="800" controls="controls" autoplay loop muted>
+    您的浏览器不支持播放该视频！
+  </video>
+</div>
+
+
+<br/>
 ---
 
 <h2 style="color: #EA580C;">✨ 核心魔法 (Features)</h2>
