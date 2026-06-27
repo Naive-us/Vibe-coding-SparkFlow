@@ -8,7 +8,7 @@
     由 LLM 驱动的“认知放大器”与“灵感放映机”
   </p>
 </div>
-
+[点击测试视频是否可访问](./SparkFlow-video2.mp4)
 <br/>
 
 <blockquote style="border-left: 4px solid #F59E0B; background-color: #FEF3C7; padding: 15px; border-radius: 4px; color: #B45309; font-family: '楷体', 'KaiTi', serif;">
