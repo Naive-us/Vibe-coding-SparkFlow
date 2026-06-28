@@ -23,14 +23,15 @@
 
 <br/>
 
-<!-- 👇 SparkFlow演示视频 👇 -->
 <div align="center">
-  <video src="Vibe-coding-SparkFlow
-/SparkFlow-video2.mp4" width="100%" max-width="800" controls="controls" autoplay loop muted>
+  <p style="color: #EA580C; font-weight: bold; font-size: 1.1em;">
+    🎬 SparkFlow 灵感生成实机演示
+  </p>
+  
+  <video src="./SparkFlow-video2.mp4" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" controls autoplay loop muted>
     您的浏览器不支持播放该视频！
   </video>
 </div>
-<!-- 👆 视频结束 👆 -->
 
 <br/>
 
