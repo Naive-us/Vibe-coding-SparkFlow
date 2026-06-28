@@ -28,7 +28,7 @@
     🎬 SparkFlow 灵感生成实机演示
   </p>
   
-  <video src="./SparkFlow-video2.mp4" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" controls autoplay loop muted>
+  <video src="https://github.com/user-attachments/assets/a6bc6a8b-21d5-44bc-bb84-feb64c1941eb" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" controls autoplay loop muted>
     您的浏览器不支持播放该视频！
   </video>
 </div>
